@@ -1,4 +1,14 @@
 # Space-Mission-Report-Dashboard
+## Table Of Contents
+1. [Project Background](project-background)
+2. [Data Source](data-source)
+3. [Tools](tools)
+4. [Analytical Process](analytical-process)
+5. [Dashboard](dashboard)
+6. [Key Insights](key-insights)
+7. [Recommendations](recommendations)
+8. [Conclusion](conclusion)
+
 ## 1. Project Background
 This project provides a comprehensive analysis of global space missions. The dataset includes thousands of recorded missions launched by various countries and organizations, covering both successful and unsuccessful outcomes. The aim of this analysis is to:
 -	Understand the growth and trends in space exploration
@@ -28,7 +38,7 @@ The following tools were used to carry out this analysis:
 -	Standardized country names and ensured uniformity in company identifiers
 -	Filtered out incomplete mission records
 -	Aggregated data by country, company, and mission outcome
-## Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 -	Analyzed global trends in mission frequency
 -	Evaluated mission success rates across countries
 -	Identified the top companies with the highest number of successful missions
@@ -53,6 +63,7 @@ The interactive Power BI dashboard created for this project highlights key stati
 Note: The dashboard includes interactive filters that allow users to explore data by country, mission status, and year range.
 
 The Interactive dashboard is <a href="https://github.com/mauree155/Furniture_Sales_Overview/blob/main/furniture-dataset.xlsx](https://app.powerbi.com/groups/me/reports/4ac30060-a39a-4774-a837-0587a3c39ff9/ReportSection?experience=power-bi">Here</a>
+
 ## 6. Key Insights
 ### Global Trends and Mission Volume
 - **Long-Term Growth in Launches**: Space missions have shown a steady increase over the decades, with a sharp spike from the early 2000s onward. Notably, more than 2,000 missions were launched after 2000 alone, indicating an intensified global interest in space exploration, especially with the entrance of private-sector players.
