@@ -40,6 +40,9 @@ The following tools were used to carry out this analysis:
 - Ensured clear communication of insights
 
 ## 5. Dashboard
+
+![faith](https://github.com/user-attachments/assets/e2478769-0b56-48eb-8d56-a1e0ceb02310)
+
 The interactive Power BI dashboard created for this project highlights key statistics and patterns across global space missions. It provides a clear visual summary of mission volumes, success rates, and country contributions. Key components of the dashboard include:
 -	Mission Status Overview: Displays the number of successful, failed, partial, and prelaunch failure missions
 -	Mission Trend Over Time: Illustrates how the number of missions has evolved over the decades
