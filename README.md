@@ -23,9 +23,12 @@ The dataset used for this analysis was provided during training by Quantum Analy
 -	Mission details: name, launch year, and company responsible
 -	Mission outcomes: classified as success, failure, partial failure, or prelaunch failure
 -	Geographic data: country where the mission originated
-  -Organizational data: name of the company or agency responsible
+- Organizational data: name of the company or agency responsible
 
 In total, the dataset contains 4,630 space missions, of which 4,162 were successful.
+
+Acess the dataset <a href="https://github.com/mauree155/Space-Mission-Report-Dashboard/blob/main/space_missions.csv">Here</a>
+
 
 ## 3. Tools
 The following tools were used to carry out this analysis:
