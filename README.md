@@ -65,7 +65,7 @@ The interactive Power BI dashboard created for this project highlights key stati
 
 Note: The dashboard includes interactive filters that allow users to explore data by country, mission status, and year range.
 
-The Interactive dashboard is <a href="https://github.com/mauree155/Furniture_Sales_Overview/blob/main/furniture-dataset.xlsx](https://app.powerbi.com/groups/me/reports/4ac30060-a39a-4774-a837-0587a3c39ff9/ReportSection?experience=power-bi">Here</a>
+The Interactive dashboard is <a href="https://app.powerbi.com/groups/me/reports/4ac30060-a39a-4774-a837-0587a3c39ff9/ReportSection?experience=power-bi">Here</a>
 
 ## 6. Key Insights
 ### Global Trends and Mission Volume
